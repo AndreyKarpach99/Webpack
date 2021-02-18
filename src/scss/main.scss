@@ -1,11 +1,5 @@
-// @import "mixins";
-// @import "fonts";
+@import "mixins";
+@import "fonts";
 @import "vendor";
-// @import "vars";
-// @import "settings";
-
-body {
-  background-color: goldenrod;
-	// background-image: url("../img/2.jpg");
-	color: yellow;
-}
+@import "vars";
+@import "settings";
